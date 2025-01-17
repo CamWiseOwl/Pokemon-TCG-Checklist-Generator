@@ -1,4 +1,4 @@
-Name,Set Name,Number,Type,HP,Stage,Rarity,Description,Have,Holo
+﻿Name,Set Name,Number,Type,HP,Stage,Rarity,Description,Have,Holo
 Pikachu,Wizards Black Star Promos,1,Lightning,60,Basic,,,,-
 Electabuzz,Wizards Black Star Promos,2,Lightning,60,Basic,,,,-
 Mewtwo,Wizards Black Star Promos,3,Psychic,70,Basic,,,,-
@@ -94,7 +94,7 @@ Chimecho,Nintendo Black Star Promos,24,Psychic,70,Basic,,Winner Stamp,,-
 Flygon,Nintendo Black Star Promos,25,Colorless,120,Stage 2,,,,-
 Flygon,Nintendo Black Star Promos,25,Colorless,120,Stage 2,,Winner Stamp,,-
 Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,,,-
-Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,Top Thirty-Two Stamp,,-
+Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,No Stamp,,-
 Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,Top Sixteen Stamp,,-
 Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,Quarter Finalist Stamp,,-
 Tropical Wind,Nintendo Black Star Promos,26,Trainer,,Trainer,,Semi-Finalist Stamp,,-
@@ -1553,6 +1553,26 @@ Glaceon,SV Black Star Promos,171,Water,120,Stage 1,,,,-
 Sylveon,SV Black Star Promos,172,Psychic,120,Stage 1,,,,-
 Eevee,SV Black Star Promos,173,Colorless,50,Basic,,,,-
 Eevee,SV Black Star Promos,173,Colorless,50,Basic,,Pokémon Center Stamp,,-
+,SV Black Star Promos,174,,,,,,,
+,SV Black Star Promos,175,,,,,,,
+,SV Black Star Promos,176,,,,,,,
+Bloodmoon Ursaluna ex,SV Black Star Promos,177,Colorless,260,Basic,,,,
+Kyogre ex,SV Black Star Promos,178,Water,230,Basic,,,,
+Xerneas ex,SV Black Star Promos,179,Psychic,210,Basic,,,,
+Dialga ex,SV Black Star Promos,180,Metal,220,Basic,,,,
+,SV Black Star Promos,181,,,,,,,
+,SV Black Star Promos,182,,,,,,,
+,SV Black Star Promos,183,,,,,,,
+,SV Black Star Promos,184,,,,,,,
+Yanma,SV Black Star Promos,185,Grass,60,Basic,,,,
+Scraggy,SV Black Star Promos,186,Darkness,60,Basic,,,,
+Yanmega,SV Black Star Promos,187,Grass,130,Stage 1,,,,
+Scrafty,SV Black Star Promos,188,Darkness,120,Stage 1,,,,
+N's Zorua,SV Black Star Promos,189,Darkness,70,Basic,,,,
+N's Zorua,SV Black Star Promos,189,Darkness,70,Basic,,Pokémon Center Stamp,,
+Pikachu,SV Black Star Promos,190,Lightning,70,Basic,,World Championships 2024 Stamp,,
+Sprigatito,SV Black Star Promos,191,Grass,70,Basic,,Pokémon Horizons The Series Stamp,,
+Fuecoco,SV Black Star Promos,192,Fire,80,Basic,,Pokémon Horizons The Series Stamp,,
 Janine's Beedrill,2001 Tropical Mega Battle Giveaway,,Grass,60,Basic,,,,-
 Bugsy's Yanma,2001 Tropical Mega Battle Giveaway,,Grass,50,Basic,,,,-
 Karen's Rapidash,2001 Tropical Mega Battle Giveaway,,Fire,60,Basic,,,,-
@@ -3001,31 +3021,26 @@ Psychic Energy,Play! Pokémon Prize Packs S2,,Energy,,Energy,No Rarity,,,
 Fighting Energy,Play! Pokémon Prize Packs S2,,Energy,,Energy,No Rarity,,,
 Darkness Energy,Play! Pokémon Prize Packs S2,,Energy,,Energy,No Rarity,,,
 Metal Energy,Play! Pokémon Prize Packs S2,,Energy,,Energy,No Rarity,,,
-Grotle,Play! Pokémon Prize Packs S3,7,Grass,100,Stage 1,Uncommon,,-,
-Moltres,Play! Pokémon Prize Packs S3,21,Fire,120,Basic,Holo Rare,,,-
-Manaphy,Play! Pokémon Prize Packs S3,41,Water,70,Basic,Rare,,-,
-Raichu V,Play! Pokémon Prize Packs S3,45,Lightning,200,Basic,V Rare,,,-
+Grotle,Play! Pokémon Prize Packs S3,007,Grass,100,Stage 1,Uncommon,,-,
+Manaphy,Play! Pokémon Prize Packs S3,041,Water,70,Basic,Rare,,-,
+Raichu V,Play! Pokémon Prize Packs S3,045,Lightning,200,Basic,V Rare,,,-
 Bibarel,Play! Pokémon Prize Packs S3,121,Colorless,120,Stage 1,Holo Rare,,-,
-Arceus V,Play! Pokémon Prize Packs S3,122,Colorless,220,Basic,V Rare,,,-
-Arceus VSTAR,Play! Pokémon Prize Packs S3,123,Colorless,280,VSTAR,V Rare,,,-
-Tornadus,Play! Pokémon Prize Packs S3,126,Colorless,120,Basic,Rare,,,-
-Boss's Orders,Play! Pokémon Prize Packs S3,132,Trainer,,Supporter,Holo Rare,,,
-Collapsed Stadium,Play! Pokémon Prize Packs S3,137,Trainer,,Stadium,Uncommon,,,-
-Magma Basin,Play! Pokémon Prize Packs S3,144,Trainer,,Stadium,Uncommon,,,
+Boss's Orders,Play! Pokémon Prize Packs S3,132,Trainer,,Supporter,Holo Rare,,-,
+Magma Basin,Play! Pokémon Prize Packs S3,144,Trainer,,Stadium,Uncommon,,-,
 Pot Helmet,Play! Pokémon Prize Packs S3,146,Trainer,,Item,Uncommon,,-,
-Double Turbo Energy,Play! Pokémon Prize Packs S3,151,Energy,,Special Energy,Uncommon,,,
-Radiant Heatran,Play! Pokémon Prize Packs S3,27,Fire,160,Basic,Radiant Rare,,,-
-Starmie V,Play! Pokémon Prize Packs S3,30,Water,190,Basic,V Rare,,,-
-Regice,Play! Pokémon Prize Packs S3,37,Water,130,Basic,Rare,,,-
-Origin Forme Palkia V,Play! Pokémon Prize Packs S3,39,Water,220,Basic,V Rare,,,-
-Origin Forme Palkia VSTAR,Play! Pokémon Prize Packs S3,40,Water,280,VSTAR,V Rare,,,-
-Hisuian Basculin,Play! Pokémon Prize Packs S3,43,Water,50,Basic,Common,,-,
-Radiant Greninja,Play! Pokémon Prize Packs S3,46,Water,130,Basic,Radiant Rare,,,-
-Regieleki,Play! Pokémon Prize Packs S3,51,Lightning,130,Basic,Rare,,,-
-Gallade,Play! Pokémon Prize Packs S3,62,Psychic,160,Stage 2,Holo Rare,,,-
-Diancie,Play! Pokémon Prize Packs S3,68,Psychic,90,Basic,Holo Rare,,,-
-Regirock,Play! Pokémon Prize Packs S3,75,Fighting,130,Basic,Rare,,,-
-Radiant Hawlucha,Play! Pokémon Prize Packs S3,81,Fighting,90,Basic,Radiant Rare,,,-
+Double Turbo Energy,Play! Pokémon Prize Packs S3,151,Energy,,Special Energy,Uncommon,,-,
+Radiant Heatran,Play! Pokémon Prize Packs S3,027,Fire,160,Basic,Radiant Rare,,,-
+Starmie V,Play! Pokémon Prize Packs S3,030,Water,190,Basic,V Rare,,,-
+Regice,Play! Pokémon Prize Packs S3,037,Water,130,Basic,Rare,,,-
+Origin Forme Palkia V,Play! Pokémon Prize Packs S3,039,Water,220,Basic,V Rare,,,-
+Origin Forme Palkia VSTAR,Play! Pokémon Prize Packs S3,040,Water,280,VSTAR,V Rare,,,-
+Hisuian Basculin,Play! Pokémon Prize Packs S3,043,Water,50,Basic,Common,,-,
+Radiant Greninja,Play! Pokémon Prize Packs S3,046,Water,130,Basic,Radiant Rare,,,-
+Regieleki,Play! Pokémon Prize Packs S3,051,Lightning,130,Basic,Rare,,,-
+Gallade,Play! Pokémon Prize Packs S3,062,Psychic,160,Stage 2,Holo Rare,,,-
+Diancie,Play! Pokémon Prize Packs S3,068,Psychic,90,Basic,Holo Rare,,,-
+Regirock,Play! Pokémon Prize Packs S3,075,Fighting,130,Basic,Rare,,,-
+Radiant Hawlucha,Play! Pokémon Prize Packs S3,081,Fighting,90,Basic,Radiant Rare,,,-
 Registeel,Play! Pokémon Prize Packs S3,108,Metal,130,Basic,Rare,,,-
 Origin Forme Dialga V,Play! Pokémon Prize Packs S3,113,Metal,220,Basic,V Rare,,,-
 Origin Forme Dialga VSTAR,Play! Pokémon Prize Packs S3,114,Metal,280,VSTAR,V Rare,,,-
@@ -3044,18 +3059,18 @@ Irida,Play! Pokémon Prize Packs S3,147,Trainer,,Supporter,Holo Rare,,,-
 Roxanne,Play! Pokémon Prize Packs S3,150,Trainer,,Supporter,Uncommon,,,-
 Switch Cart,Play! Pokémon Prize Packs S3,154,Trainer,,Item,Uncommon,,-,
 Temple of Sinnoh,Play! Pokémon Prize Packs S3,155,Trainer,,Stadium,Uncommon,,,-
-Mewtwo V,Play! Pokémon Prize Packs S3,30,Psychic,220,Basic,V Rare,,,-
-Mewtwo VSTAR,Play! Pokémon Prize Packs S3,31,Psychic,280,VSTAR,V Rare,,,-
-Kyurem V,Play! Pokémon Prize Packs S3,48,Water,220,Basic,V Rare,,,-
-Kyurem VMAX,Play! Pokémon Prize Packs S3,49,Water,330,VMAX,V Rare,,,-
-Cramorant,Play! Pokémon Prize Packs S3,50,Water,110,Basic,Rare,,-,
-Clefairy,Play! Pokémon Prize Packs S3,62,Psychic,60,Basic,Common,,,-
-Gengar,Play! Pokémon Prize Packs S3,66,Psychic,120,Stage 2,Holo Rare,,,-
-Radiant Gardevoir,Play! Pokémon Prize Packs S3,69,Psychic,130,Basic,Radiant Rare,,,-
-Sableye,Play! Pokémon Prize Packs S3,70,Psychic,80,Basic,Holo Rare,,,
-Banette,Play! Pokémon Prize Packs S3,73,Psychic,100,Stage 1,Rare,,-,
-Comfey,Play! Pokémon Prize Packs S3,79,Psychic,70,Basic,Rare,,,-
-Hisuian Arcanine,Play! Pokémon Prize Packs S3,84,Fighting,130,Stage 1,Holo Rare,,,-
+Mewtwo V,Play! Pokémon Prize Packs S3,030,Psychic,220,Basic,V Rare,,,-
+Mewtwo VSTAR,Play! Pokémon Prize Packs S3,031,Psychic,280,VSTAR,V Rare,,,-
+Kyurem V,Play! Pokémon Prize Packs S3,048,Water,220,Basic,V Rare,,,-
+Kyurem VMAX,Play! Pokémon Prize Packs S3,049,Water,330,VMAX,V Rare,,,-
+Cramorant,Play! Pokémon Prize Packs S3,050,Water,110,Basic,Rare,,-,
+Clefairy,Play! Pokémon Prize Packs S3,062,Psychic,60,Basic,Common,,,-
+Gengar,Play! Pokémon Prize Packs S3,066,Psychic,120,Stage 2,Holo Rare,,,-
+Radiant Gardevoir,Play! Pokémon Prize Packs S3,069,Psychic,130,Basic,Radiant Rare,,,-
+Sableye,Play! Pokémon Prize Packs S3,070,Psychic,80,Basic,Holo Rare,,,
+Banette,Play! Pokémon Prize Packs S3,073,Psychic,100,Stage 1,Rare,,-,
+Comfey,Play! Pokémon Prize Packs S3,079,Psychic,70,Basic,Rare,,,-
+Hisuian Arcanine,Play! Pokémon Prize Packs S3,084,Fighting,130,Stage 1,Holo Rare,,,-
 Drapion V,Play! Pokémon Prize Packs S3,118,Darkness,210,Basic,V Rare,,,-
 Drapion VSTAR,Play! Pokémon Prize Packs S3,119,Darkness,270,VSTAR,V Rare,,,-
 Radiant Hisuian Sneasler,Play! Pokémon Prize Packs S3,123,Darkness,130,Basic,Radiant Rare,,,-
@@ -3075,15 +3090,15 @@ Lost City,Play! Pokémon Prize Packs S3,161,Trainer,,Stadium,Uncommon,,,-
 Mirage Gate,Play! Pokémon Prize Packs S3,163,Trainer,,Item,Uncommon,,,
 Thorton,Play! Pokémon Prize Packs S3,167,Trainer,,Supporter,Uncommon,,,-
 Tool Box,Play! Pokémon Prize Packs S3,168,Trainer,,Item,Uncommon,,,-
-Radiant Tsareena,Play! Pokémon Prize Packs S3,16,Grass,140,Basic,Radiant Rare,,,-
-Alolan Vulpix V,Play! Pokémon Prize Packs S3,33,Water,190,Basic,V Rare,,,-
-Alolan Vulpix VSTAR,Play! Pokémon Prize Packs S3,34,Water,240,VSTAR,V Rare,,,-
-Wailord,Play! Pokémon Prize Packs S3,38,Water,200,Stage 1,Uncommon,,-,
-Regieleki V,Play! Pokémon Prize Packs S3,57,Lightning,200,Basic,V Rare,,,-
-Regieleki VMAX,Play! Pokémon Prize Packs S3,58,Lightning,310,VMAX,V Rare,,,-
-Radiant Alakazam,Play! Pokémon Prize Packs S3,59,Psychic,130,Basic,Radiant Rare,,,-
-Kirlia,Play! Pokémon Prize Packs S3,68,Psychic,80,Stage 1,Uncommon,,,
-Hisuian Arcanine V,Play! Pokémon Prize Packs S3,90,Fighting,230,Basic,V Rare,,,-
+Radiant Tsareena,Play! Pokémon Prize Packs S3,016,Grass,140,Basic,Radiant Rare,,,-
+Alolan Vulpix V,Play! Pokémon Prize Packs S3,033,Water,190,Basic,V Rare,,,-
+Alolan Vulpix VSTAR,Play! Pokémon Prize Packs S3,034,Water,240,VSTAR,V Rare,,,-
+Wailord,Play! Pokémon Prize Packs S3,038,Water,200,Stage 1,Uncommon,,-,
+Regieleki V,Play! Pokémon Prize Packs S3,057,Lightning,200,Basic,V Rare,,,-
+Regieleki VMAX,Play! Pokémon Prize Packs S3,058,Lightning,310,VMAX,V Rare,,,-
+Radiant Alakazam,Play! Pokémon Prize Packs S3,059,Psychic,130,Basic,Radiant Rare,,,-
+Kirlia,Play! Pokémon Prize Packs S3,068,Psychic,80,Stage 1,Uncommon,,,
+Hisuian Arcanine V,Play! Pokémon Prize Packs S3,090,Fighting,230,Basic,V Rare,,,-
 Radiant Jirachi,Play! Pokémon Prize Packs S3,120,Metal,90,Basic,Radiant Rare,,,-
 Dragonite,Play! Pokémon Prize Packs S3,131,Dragon,160,Stage 2,Holo Rare,,,-
 Regidrago V,Play! Pokémon Prize Packs S3,135,Dragon,220,Basic,V Rare,,,-
@@ -3098,26 +3113,26 @@ Lance,Play! Pokémon Prize Packs S3,159,Trainer,,Supporter,Uncommon,,,-
 Leafy Camo Poncho,Play! Pokémon Prize Packs S3,160,Trainer,,Item,Uncommon,,,-
 Serena,Play! Pokémon Prize Packs S3,164,Trainer,,Supporter,Uncommon,,,-
 V Guard Energy,Play! Pokémon Prize Packs S3,169,Energy,,Special Energy,Uncommon,,,-
-Radiant Charizard,Play! Pokémon Prize Packs S3,20,Fire,160,Basic,Radiant Rare,,,-
-Radiant Charjabug,Play! Pokémon Prize Packs S3,51,Lightning,90,Basic,Radiant Rare,,,-
-Lunatone,Play! Pokémon Prize Packs S3,62,Psychic,90,Basic,Uncommon,,,-
-Solrock,Play! Pokémon Prize Packs S3,69,Fighting,90,Basic,Uncommon,,,-
+Radiant Charizard,Play! Pokémon Prize Packs S3,020,Fire,160,Basic,Radiant Rare,,,-
+Radiant Charjabug,Play! Pokémon Prize Packs S3,051,Lightning,90,Basic,Radiant Rare,,,-
+Lunatone,Play! Pokémon Prize Packs S3,062,Psychic,90,Basic,Uncommon,,,-
+Solrock,Play! Pokémon Prize Packs S3,069,Fighting,90,Basic,Uncommon,,,-
 Radiant Eternatus,Play! Pokémon Prize Packs S3,105,Dragon,170,Basic,Radiant Rare,,,-
 Ditto,Play! Pokémon Prize Packs S3,107,Colorless,70,Basic,Holo Rare,,,-
 Lost Vacuum,Play! Pokémon Prize Packs S3,135,Trainer,,Item,Uncommon,,,
 Sky Seal Stone,Play! Pokémon Prize Packs S3,143,Trainer,,Item,Holo Rare,,,-
 Trekking Shoes,Play! Pokémon Prize Packs S3,145,Trainer,,Item,Uncommon,,,
 Ultra Ball,Play! Pokémon Prize Packs S3,146,Trainer,,Item,Uncommon,,-,
-Spidops ex,Play! Pokémon Prize Packs S3,19,Grass,260,Stage 1,Double Rare,,,-
-Armarouge,Play! Pokémon Prize Packs S3,41,Fire,130,Stage 1,Rare,,,-
-Slowbro,Play! Pokémon Prize Packs S3,43,Water,100,Stage 1,Rare,,,-
-Dondozo,Play! Pokémon Prize Packs S3,61,Water,160,Basic,Rare,,,
-Tatsugiri,Play! Pokémon Prize Packs S3,62,Water,70,Basic,Uncommon,,,
-Magnezone ex,Play! Pokémon Prize Packs S3,65,Lightning,330,Stage 2,Double Rare,,,-
-Pawmot,Play! Pokémon Prize Packs S3,76,Lightning,130,Stage 2,Rare,,,-
-Miraidon ex,Play! Pokémon Prize Packs S3,81,Lightning,220,Basic,Double Rare,,,-
-Gardevoir ex,Play! Pokémon Prize Packs S3,86,Psychic,310,Stage 2,Double Rare,,,-
-Banette ex,Play! Pokémon Prize Packs S3,88,Psychic,250,Stage 1,Double Rare,,,-
+Spidops ex,Play! Pokémon Prize Packs S3,019,Grass,260,Stage 1,Double Rare,,,-
+Armarouge,Play! Pokémon Prize Packs S3,041,Fire,130,Stage 1,Rare,,,-
+Slowbro,Play! Pokémon Prize Packs S3,043,Water,100,Stage 1,Rare,,,-
+Dondozo,Play! Pokémon Prize Packs S3,061,Water,160,Basic,Rare,,,
+Tatsugiri,Play! Pokémon Prize Packs S3,062,Water,70,Basic,Uncommon,,,
+Magnezone ex,Play! Pokémon Prize Packs S3,065,Lightning,330,Stage 2,Double Rare,,,-
+Pawmot,Play! Pokémon Prize Packs S3,076,Lightning,130,Stage 2,Rare,,,-
+Miraidon ex,Play! Pokémon Prize Packs S3,081,Lightning,220,Basic,Double Rare,,,-
+Gardevoir ex,Play! Pokémon Prize Packs S3,086,Psychic,310,Stage 2,Double Rare,,,-
+Banette ex,Play! Pokémon Prize Packs S3,088,Psychic,250,Stage 1,Double Rare,,,-
 Annihilape,Play! Pokémon Prize Packs S3,109,Fighting,140,Stage 2,Rare,,,-
 Lucario,Play! Pokémon Prize Packs S3,114,Fighting,130,Stage 1,Uncommon,,,-
 Hawlucha,Play! Pokémon Prize Packs S3,118,Fighting,70,Basic,Rare,,,-
@@ -3146,10 +3161,10 @@ Switch,Play! Pokémon Prize Packs S3,194,Trainer,,Item,Common,,,
 Team Star Grunt,Play! Pokémon Prize Packs S3,195,Trainer,,Supporter,Uncommon,,,-
 Ultra Ball,Play! Pokémon Prize Packs S3,196,Trainer,,Item,Uncommon,,,
 Vitality Band,Play! Pokémon Prize Packs S3,197,Trainer,,Tool,Uncommon,,,
-Mimikyu ex,Play! Pokémon Prize Packs S3,4,Psychic,190,Basic,Promo,,,-
-Ampharos ex,Play! Pokémon Prize Packs S3,16,Lightning,330,Stage 2,Promo,,,-
-Lucario ex,Play! Pokémon Prize Packs S3,17,Fighting,260,Stage 1,Promo,,,-
-Cyclizar ex,Play! Pokémon Prize Packs S3,18,Colorless,210,Basic,Promo,,,-
+Mimikyu ex,Play! Pokémon Prize Packs S3,004,Psychic,190,Basic,Promo,,,-
+Ampharos ex,Play! Pokémon Prize Packs S3,016,Lightning,330,Stage 2,Promo,,,-
+Lucario ex,Play! Pokémon Prize Packs S3,017,Fighting,260,Stage 1,Promo,,,-
+Cyclizar ex,Play! Pokémon Prize Packs S3,018,Colorless,210,Basic,Promo,,,-
 Grass Energy,Play! Pokémon Prize Packs S3,,Energy,,Energy,No Rarity,,-,
 Fire Energy,Play! Pokémon Prize Packs S3,,Energy,,Energy,No Rarity,,-,
 Water Energy,Play! Pokémon Prize Packs S3,,Energy,,Energy,No Rarity,,-,
@@ -3662,36 +3677,36 @@ Glameow,XY Trainer Kit - Pikachu Libre,27,Colorless,60,Basic,Common,,,-
 Electrike,XY Trainer Kit - Pikachu Libre,28,Lightning,60,Basic,Common,,,-
 Lightning Energy,XY Trainer Kit - Pikachu Libre,29,Energy,,Energy,Common,,,-
 Pikachu Libre,XY Trainer Kit - Pikachu Libre,30,Lightning,80,Basic,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,1,Energy,,Energy,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,2,Energy,,Energy,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,3,Energy,,Energy,Common,,,-
-Eevee,XY Trainer Kit - Suicine,4,Colorless,60,Basic,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,5,Energy,,Energy,Common,,,-
-Frogadier,XY Trainer Kit - Suicine,6,Water,70,Stage 1,Common,,,-
-Ducklett,XY Trainer Kit - Suicine,7,Water,60,Basic,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,8,Energy,,Energy,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,9,Energy,,Energy,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,10,Energy,,Energy,Common,,,-
-Froakie,XY Trainer Kit - Suicine,11,Water,60,Basic,Common,,,-
-Seaking,XY Trainer Kit - Suicine,12,Water,90,Stage 1,Common,,,-
-Goldeen,XY Trainer Kit - Suicine,13,Water,60,Basic,Common,,,-
-Suicune,XY Trainer Kit - Suicine,14,Water,100,Basic,Common,,,-
-Potion,XY Trainer Kit - Suicine,15,Trainer,,Item,Common,,,-
-Piplup,XY Trainer Kit - Suicine,16,Water,60,Basic,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,17,Energy,,Energy,Common,,,-
-Swanna,XY Trainer Kit - Suicine,18,Water,80,Stage 1,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,19,Energy,,Energy,Common,,,-
-Tierno,XY Trainer Kit - Suicine,20,Trainer,,Supporter,Common,,,-
-Frogadier,XY Trainer Kit - Suicine,21,Water,70,Stage 1,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,22,Energy,,Energy,Common,,,-
-Froakie,XY Trainer Kit - Suicine,23,Water,60,Basic,Common,,,-
-Ducklett,XY Trainer Kit - Suicine,24,Water,60,Basic,Common,,,-
-Seaking,XY Trainer Kit - Suicine,25,Water,90,Stage 1,Common,,,-
-Goldeen,XY Trainer Kit - Suicine,26,Water,60,Basic,Common,,,-
-Swanna,XY Trainer Kit - Suicine,27,Water,80,Stage 1,Common,,,-
-Water Energy,XY Trainer Kit - Suicine,28,Energy,,Energy,Common,,,-
-Tierno,XY Trainer Kit - Suicine,29,Trainer,,Supporter,Common,,,-
-Suicune,XY Trainer Kit - Suicine,30,Water,100,Basic,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,1,Energy,,Energy,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,2,Energy,,Energy,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,3,Energy,,Energy,Common,,,-
+Eevee,XY Trainer Kit - Suicune,4,Colorless,60,Basic,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,5,Energy,,Energy,Common,,,-
+Frogadier,XY Trainer Kit - Suicune,6,Water,70,Stage 1,Common,,,-
+Ducklett,XY Trainer Kit - Suicune,7,Water,60,Basic,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,8,Energy,,Energy,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,9,Energy,,Energy,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,10,Energy,,Energy,Common,,,-
+Froakie,XY Trainer Kit - Suicune,11,Water,60,Basic,Common,,,-
+Seaking,XY Trainer Kit - Suicune,12,Water,90,Stage 1,Common,,,-
+Goldeen,XY Trainer Kit - Suicune,13,Water,60,Basic,Common,,,-
+Suicune,XY Trainer Kit - Suicune,14,Water,100,Basic,Common,,,-
+Potion,XY Trainer Kit - Suicune,15,Trainer,,Item,Common,,,-
+Piplup,XY Trainer Kit - Suicune,16,Water,60,Basic,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,17,Energy,,Energy,Common,,,-
+Swanna,XY Trainer Kit - Suicune,18,Water,80,Stage 1,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,19,Energy,,Energy,Common,,,-
+Tierno,XY Trainer Kit - Suicune,20,Trainer,,Supporter,Common,,,-
+Frogadier,XY Trainer Kit - Suicune,21,Water,70,Stage 1,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,22,Energy,,Energy,Common,,,-
+Froakie,XY Trainer Kit - Suicune,23,Water,60,Basic,Common,,,-
+Ducklett,XY Trainer Kit - Suicune,24,Water,60,Basic,Common,,,-
+Seaking,XY Trainer Kit - Suicune,25,Water,90,Stage 1,Common,,,-
+Goldeen,XY Trainer Kit - Suicune,26,Water,60,Basic,Common,,,-
+Swanna,XY Trainer Kit - Suicune,27,Water,80,Stage 1,Common,,,-
+Water Energy,XY Trainer Kit - Suicune,28,Energy,,Energy,Common,,,-
+Tierno,XY Trainer Kit - Suicune,29,Trainer,,Supporter,Common,,,-
+Suicune,XY Trainer Kit - Suicune,30,Water,100,Basic,Common,,,-
 Caterpie,SM Trainer Kit - Lycanroc,1,Grass,50,Basic,Common,,,-
 Fighting Energy,SM Trainer Kit - Lycanroc,2,Energy,,Energy,Common,,,-
 Fighting Energy,SM Trainer Kit - Lycanroc,3,Energy,,Energy,Common,,,-
@@ -5021,6 +5036,9 @@ Zekrom,Blister Pack Exclusives,66,Lightning,130,Basic,,Cosmos Holofoil,,-
 Latios,Blister Pack Exclusives,73,Psychic,110,Basic,,Cosmos Holofoil,,-
 Chandelure,Blister Pack Exclusives,38,Fire,130,Stage 2,,Cosmos Holofoil,,-
 Alakazam,Blister Pack Exclusives,82,Psychic,140,Stage 2,,Cosmos Holofoil,,-
+Sinistcha,Blister Pack Exclusives,022,Grass,70,Stage 1,,Cosmos Holofoil,,-
+Hisuian Arcanine,Blister Pack Exclusives,100,Fighting,130,Stage 1,,Cosmos Holofoil,,-
+Eevee,Blister Pack Exclusives,074,Colorless,50,Basic,,Pokemon Day Stamp 2025,,-
 Mega Lucario-EX,Alternative Art,55a,Fighting,220,Mega,,,,-
 Mega Manectric-EX,Alternative Art,24a,Lightning,210,Mega,,,,-
 Jolteon-EX,Alternative Art,28a,Lightning,160,Basic,,,,-
@@ -5594,6 +5612,7 @@ Flapple,Additional Cards,22,Grass,80,Stage 1,,"Cosmos Holofoil, Gamestop Stamp",
 Flapple,Additional Cards,22,Grass,80,Stage 1,,"Cosmos Holofoil, EB Games Stamp",,-
 Tepig,Additional Cards,23,Fire,80,Basic,,Cosmos Holofoil,,-
 Shinx,Additional Cards,46,Lightning,60,Basic,,Cosmos Holofoil,,-
+Frosmoth,Additional Cards,064,Water,90,Stage 1,,Non Holofoil,,
 Cinderace,Additional Cards,34,Fire,170,Stage 2,,Non Holofoil,,-
 Dragapult,Additional Cards,91,Psychic,150,Stage 2,,Non Holofoil,,-
 Professor's Research,Additional Cards,60,Trainer,,Supporter,,Line Holofoil,,-
@@ -5647,7 +5666,6 @@ Boltund,Additional Cards,76,Lightning,120,Stage 1,,Cosmos Holofoil,,-
 Eiscue,Additional Cards,54,Water,120,Basic,,Cosmos Holofoil,,-
 Galarian Sirfetch'd,Additional Cards,95,Fighting,130,Stage 1,,Cosmos Holofoil,,-
 Mewtwo,Additional Cards,56,Psychic,130,Basic,,"Reverse Holofoil, Brilliant Stars Stamp",,-
-Mimikyu,Additional Cards,81,Psychic,70,Basic,,Cosmos Holofoil,,-
 Wooloo,Additional Cards,222,Colorless,70,Basic,,Cosmos Holofoil,,-
 Professor's Research,Additional Cards,60,Trainer,,Supporter,,Cosmos Holofoil,,-
 Keldeo,Additional Cards,45,Water,110,Basic,,Non Holofoil,,-
@@ -5676,6 +5694,7 @@ Gengar,Additional Cards,66,Psychic,120,Stage 2,,Non Holofoil,,-
 Hisuian Arcanine,Additional Cards,84,Fighting,130,Stage 1,,Non Holofoil,,-
 Boltund,Additional Cards,76,Lightning,120,Stage 1,,Non Holofoil,,-
 Empoleon,Additional Cards,37,Water,160,Stage 2,,Cosmos Holofoil,,-
+Keldeo,Additional Cards,045,Water,110,Basic,,Cosmos Holofoil,,
 Electrode,Additional Cards,88,Lightning,90,Stage 1,,Cosmos Holofoil,,-
 Mewtwo,Additional Cards,56,Psychic,130,Basic,,Cosmos Holofoil,,-
 Zekrom,Additional Cards,60,Lightning,130,Basic,,Cosmos Holofoil,,-
@@ -5783,7 +5802,6 @@ Kadabra,Additional Cards,64,Psychic,80,Stage 1,,Cosmos Holofoil,,-
 Electabuzz,Additional Cards,125,Lightning,90,Basic,,Classic Cosmos Holofoil,,-
 Electabuzz,Additional Cards,125,Lightning,90,Basic,,HD Cosmos Holofoil,,-
 Arboliva,Additional Cards,23,Grass,150,Stage 2,,Non Holofoil,,-
-Quaquaval,Additional Cards,54,Water,170,Stage 2,,Non Holofoil,,-
 Charmander,Additional Cards,26,Fire,60,Basic,,Mirage Holofoil,,-
 Charmeleon,Additional Cards,27,Fire,90,Stage 1,,Mirage Holofoil,,-
 Iron Moth,Additional Cards,28,Fire,130,Basic,,Non Holofoil,,-
@@ -5828,7 +5846,6 @@ Pawmo,Additional Cards,75,Lightning,80,Stage 1,,Cosmos Holofoil,,-
 Tandemaus,Additional Cards,167,Colorless,40,Basic,,Cosmos Holofoil,,-
 Morpeko,Additional Cards,121,Darkness,70,Basic,,Non Holofoil,,-
 Lokix,Additional Cards,122,Darkness,120,Stage 1,,Non Holofoil,,-
-Revavroom,Additional Cards,142,Metal,140,Stage 2,,Non Holofoil,,-
 Orthworm,Additional Cards,151,Metal,130,Basic,,Non Holofoil,,-
 Zacian,Additional Cards,136,Metal,120,Basic,,Non Holofoil,,-
 Cresselia,Additional Cards,74,Psychic,120,Basic,,Non Holofoil,,-
@@ -5883,6 +5900,9 @@ Pupitar,Additional Cards,106,Fighting,80,Stage 1,,Cosmos Holofoil,,-
 Bounsweet,Additional Cards,16,Grass,60,Basic,,Cosmos Holofoil,,-
 Steenee,Additional Cards,17,Grass,90,Stage 1,,Cosmos Holofoil,,-
 Kyogre,Additional Cards,36,Water,140,Basic,,Cosmos Holofoil,,-
+Honedge,Additional Cards,131,Metal,60,Basic,,Cosmos Holofoil,,
+Doublade,Additional Cards,132,Metal,90,Stage 1,,Cosmos Holofoil,,
+Rockruff,Additional Cards,116,Fighting,70,Basic,,Cosmos Holofoil,,
 Archaludon,Additional Cards,107,Metal,180,Stage 1,,"Cosmos Holofoil, GameStop Stamp",,-
 Archaludon,Additional Cards,107,Metal,180,Stage 1,,"Cosmos Holofoil, EB Games Stamp",,-
 Raging Bolt,Additional Cards,111,Dragon,130,Basic,,"Cosmos Holofoil, Stellar Crown Stamp",,-
@@ -5897,6 +5917,8 @@ Basic Darkness Energy,Additional Cards,15,Energy,,Energy,,©2024,,-
 Basic Metal Energy,Additional Cards,16,Energy,,Energy,,©2024,,-
 Ledian,Additional Cards,3,Grass,90,Stage 1,,Non Holofoil,,-
 Bouffalant,Additional Cards,119,Colorless,100,Basic,,Non Holofoil,,-
+Rowlet,Additional Cards,013,Grass,70,Basic,,Cosmos Holofoil,,
+Dartrix,Additional Cards,014,Grass,90,Stage 1,,Cosmos Holofoil,,
 Charmander,Additional Cards,4,Fire,70,Basic,,Cosmos Holofoil,,-
 Charmeleon,Additional Cards,5,Fire,100,Stage 1,,Cosmos Holofoil,,-
 Greavard,Additional Cards,100,Psychic,80,Basic,,Cosmos Holofoil,,-
@@ -5911,8 +5933,6 @@ Teal Mask Ogerpon,Additional Cards,24,Grass,110,Basic,,Cosmos Holofoil,,-
 Ogre's Mask,Additional Cards,159,Trainer,,Item,,Cosmos Holofoil,,-
 Hoothoot,Additional Cards,126,Colorless,70,Basic,,Cosmos Holofoil,,-
 Noctowl,Additional Cards,127,Colorless,110,Stage 1,,Cosmos Holofoil,,-
-Honedge,Additional Cards,131,Metal,60,Basic,,Cosmos Holfoil,,-
-Doublade,Additional Cards,132,Metal,90,Stage 1,,Cosmos Holfoil,,-
 Rabsca,Additional Cards,14,Grass,70,Stage 1,,Non Holofoil,,-
 Gouging Fire,Additional Cards,38,Fire,130,Basic,,Non Holofoil,,-
 Tapu Koko,Additional Cards,65,Lightning,120,Basic,,Non Holofoil,,-
@@ -5928,6 +5948,32 @@ Basic Psychic Energy,Additional Cards,13,Energy,,Energy,,"©2024, Cracked Ice Ho
 Basic Fighting Energy,Additional Cards,14,Energy,,Energy,,"©2024, Cracked Ice Holofoil",,-
 Basic Darkness Energy,Additional Cards,15,Energy,,Energy,,"©2024, Cracked Ice Holofoil",,-
 Basic Metal Energy,Additional Cards,16,Energy,,Energy,,"©2024, Cracked Ice Holofoil",,-
+Quaxly,Additional Cards,050,Water,60,Basic,,"Reverse Holofoil, Pokémon Horizons: The Series Stamp",,-
+Terapagos,Additional Cards,161,Colorless,120,Basic,,Pokémon Horizons: The Series Stamp,,-
+Scizor,Additional Cards,141,Metal,140,Stage 1,,Cosmos Holofoil,,-
+Luxray,Additional Cards,071,Lightning,150,Stage 2,,Cosmos Holofoil,,-
+Pikachu,Additional Cards,051,Lightning,70,Basic,,Cosmos Holofoil,,-
+Dipplin,Additional Cards,018,Grass,80,Stage 1,,Cosmos Holofoil,,-
+Moltres,Additional Cards,146,Fire,120,Basic,,Non Holofoil,,-
+Chien-Pao,Additional Cards,057,Water,120,Basic,,Cosmos Holofoil,,-
+Alakazam,Additional Cards,082,Psychic,140,Stage 2,,Cosmos Holofoil,,-
+Leafeon ex,Additional Cards,006,Grass,270,Stage 1,,Prismatic Evolutions Stamp,,-
+Flareon ex,Additional Cards,014,Fire,270,Stage 1,,Prismatic Evolutions Stamp,,-
+Vaporeon ex,Additional Cards,023,Water,280,Stage 1,,Prismatic Evolutions Stamp,,-
+Glaceon ex,Additional Cards,026,Water,270,Stage 1,,Prismatic Evolutions Stamp,,-
+Jolteon ex,Additional Cards,030,Lightning,260,Stage 1,,Prismatic Evolutions Stamp,,-
+Espeon ex,Additional Cards,034,Psychic,270,Stage 1,,Prismatic Evolutions Stamp,,-
+Sylveon ex,Additional Cards,041,Psychic,270,Stage 1,,Prismatic Evolutions Stamp,,-
+Umbreon ex,Additional Cards,060,Darkness,280,Stage 1,,Prismatic Evolutions Stamp,,-
+Eevee ex,Additional Cards,075,Colorless,200,Basic,,Prismatic Evolutions Stamp,,-
+Basic Grass Energy,Additional Cards,009,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Fire Energy,Additional Cards,010,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Water Energy,Additional Cards,011,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Lightning Energy,Additional Cards,012,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Psychic Energy,Additional Cards,013,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Fighting Energy,Additional Cards,014,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Darkness Energy,Additional Cards,015,Energy,,Energy,,"©2024, Reverse Holofoil",,-
+Basic Metal Energy,Additional Cards,016,Energy,,Energy,,"©2024, Reverse Holofoil",,-
 Blastoise,Error Cards,2,Water,100,,,"Missing ""Stage"" in the ""Put Blastoise on the Stage 1 Pokémon""",,-
 Ninetales,Error Cards,12,Fire,80,,,Fire Blast attack missing damage,,-
 Raichu,Error Cards,14,Lightning,80,,,Pre-Release stamp (Extremely Rare),,-
