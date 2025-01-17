@@ -627,62 +627,77 @@
     "Kalos Starter Set": {
       "title": "Kalos Starter Set",
       "logo": "Kalos Starter Set",
-      "items": []
+      "items": [],
+      "symbol": "Kalos Starter Set"
     },
     "Battle Academy 2020 - Charizard": {
       "title": "Battle Academy 2020 - Charizard",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2020 - Pikachu": {
       "title": "Battle Academy 2020 - Pikachu",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2020 - Mewtwo": {
       "title": "Battle Academy 2020 - Mewtwo",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2022 - Cinderace": {
       "title": "Battle Academy 2022 - Cinderace",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2022 - Pikachu": {
       "title": "Battle Academy 2022 - Pikachu",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2022 - Eevee": {
       "title": "Battle Academy 2022 - Eevee",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2024 - Armarouge": {
       "title": "Battle Academy 2024 - Armarouge",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2024 - Pikachu": {
       "title": "Battle Academy 2024 - Pikachu",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Battle Academy 2024 - Darkrai": {
       "title": "Battle Academy 2024 - Darkrai",
-      "items": []
+      "items": [],
+      "logo": "Battle Academy"
     },
     "Futsal Collection": {
       "title": "Futsal Collection",
-      "items": []
+      "items": [],
+      "logo": "Futsal",
+      "symbol": "Futsal"
     },
     "Trick or Trade 2022": {
       "title": "Trick or Trade 2022",
       "items": [],
-      "label": "Pikachu Pumpkin Stamp"
+      "label": "Pikachu Pumpkin Stamp",
+      "logo": "Trick_or_Trade"
     },
     "Trick or Trade 2023": {
       "title": "Trick or Trade 2023",
       "items": [],
-      "label": "Pikachu Pumpkin Stamp"
+      "label": "Pikachu Pumpkin Stamp",
+      "logo": "Trick_or_Trade_2023"
     },
     "Trick or Trade 2024": {
       "title": "Trick or Trade 2024",
       "items": [],
-      "label": "Pikachu Pumpkin Stamp"
+      "label": "Pikachu Pumpkin Stamp",
+      "logo": "Trick_or_Trade_2024"
     },
     "Holiday Calendar 2022": {
       "title": "Holiday Calendar 2022",
@@ -701,161 +716,198 @@
     },
     "TCG Classic - Venusaur & Lugia ex Deck": {
       "title": "TCG Classic - Venusaur & Lugia ex Deck",
-      "items": []
+      "items": [],
+      "symbol": "TCG_Classic_Venusaur"
     },
     "TCG Classic - Charizard & Ho-Oh ex Deck": {
       "title": "TCG Classic - Charizard & Ho-Oh ex Deck",
-      "items": []
+      "items": [],
+      "symbol": "TCG_Classic_Charizard"
     },
     "TCG Classic - Blastoise & Suicune ex Deck": {
       "title": "TCG Classic - Blastoise & Suicune ex Deck",
-      "items": []
+      "items": [],
+      "symbol": "TCG_Classic_Blastoise"
     },
     "My First Battle - Pikachu & Bulbasaur": {
       "title": "My First Battle - Pikachu & Bulbasaur",
       "items": [],
-      "label": "Bulbasaur or Pikachu Stamp"
+      "label": "Bulbasaur or Pikachu Stamp",
+      "logo": "My_First_Battle"
     },
     "My First Battle - Charmander & Squirtle": {
       "title": "My First Battle - Charmander & Squirtle",
       "items": [],
-      "label": "Charmander or Squirtle Stamp"
+      "label": "Charmander or Squirtle Stamp",
+      "logo": "My_First_Battle"
     },
     "POP Series 1": {
       "title": "POP Series 1",
-      "items": []
+      "items": [],
+      "symbol": "POP1"
     },
     "POP Series 2": {
       "title": "POP Series 2",
-      "items": []
+      "items": [],
+      "symbol": "POP2"
     },
     "POP Series 3": {
       "title": "POP Series 3",
-      "items": []
+      "items": [],
+      "symbol": "POP3"
     },
     "POP Series 4": {
       "title": "POP Series 4",
-      "items": []
+      "items": [],
+      "symbol": "POP4"
     },
     "POP Series 5": {
       "title": "POP Series 5",
-      "items": []
+      "items": [],
+      "symbol": "POP5"
     },
     "POP Series 6": {
       "title": "POP Series 6",
-      "items": []
+      "items": [],
+      "symbol": "POP6"
     },
     "POP Series 7": {
       "title": "POP Series 7",
-      "items": []
+      "items": [],
+      "symbol": "POP7"
     },
     "POP Series 8": {
       "title": "POP Series 8",
-      "items": []
+      "items": [],
+      "symbol": "POP8"
     },
     "POP Series 9": {
       "title": "POP Series 9",
-      "items": []
+      "items": [],
+      "symbol": "POP9"
     },
     "Play! Pokémon Prize Packs S1": {
       "title": "Play! Pokémon Prize Packs S1",
-      "items": []
+      "items": [],
+      "logo": "Play"
     },
     "Play! Pokémon Prize Packs S2": {
       "title": "Play! Pokémon Prize Packs S2",
-      "items": []
+      "items": [],
+      "logo": "Play"
     },
     "Play! Pokémon Prize Packs S3": {
       "title": "Play! Pokémon Prize Packs S3",
-      "items": []
+      "items": [],
+      "logo": "Play"
     },
     "Play! Pokémon Prize Packs S4": {
       "title": "Play! Pokémon Prize Packs S4",
-      "items": []
+      "items": [],
+      "logo": "Play"
     },
     "Play! Pokémon Prize Packs S5": {
       "title": "Play! Pokémon Prize Packs S5",
-      "items": []
+      "items": [],
+      "logo": "Play"
     },
     "EX Trainer Kit - Latios": {
       "title": "EX Trainer Kit - Latios",
-      "items": []
+      "items": [],
+      "symbol": "Latios EX"
     },
     "EX Trainer Kit - Latias": {
       "title": "EX Trainer Kit - Latias",
-      "items": []
+      "items": [],
+      "symbol": "Latias EX"
     },
     "EX Trainer Kit 2 - Minun": {
       "title": "EX Trainer Kit 2 - Minun",
-      "items": []
+      "items": [],
+      "symbol": "Minun"
     },
     "EX Trainer Kit 2 - Plusle": {
       "title": "EX Trainer Kit 2 - Plusle",
-      "items": []
+      "items": [],
+      "symbol": "Plusle"
     },
     "DP Trainer Kit - Manaphy": {
       "title": "DP Trainer Kit - Manaphy",
-      "items": []
+      "items": [],
+      "symbol": "Manaphy"
     },
     "DP Trainer Kit - Lucario": {
       "title": "DP Trainer Kit - Lucario",
-      "items": []
+      "items": [],
+      "symbol": "Lucario"
     },
     "HGSS Trainer Kit - Raichu": {
       "title": "HGSS Trainer Kit - Raichu",
-      "items": []
+      "items": [],
+      "symbol": "Raichu"
     },
     "HGSS Trainer Kit - Gyarados": {
       "title": "HGSS Trainer Kit - Gyarados",
-      "items": []
+      "items": [],
+      "symbol": "Gyarados"
     },
     "BW Trainer Kit - Excadrill": {
       "title": "BW Trainer Kit - Excadrill",
-      "items": []
+      "items": [],
+      "symbol": "Excadrill"
     },
     "BW Trainer Kit - Zoroark": {
       "title": "BW Trainer Kit - Zoroark",
-      "items": []
+      "items": [],
+      "symbol": "Zoroark"
     },
     "XY Trainer Kit - Sylveon": {
       "title": "XY Trainer Kit - Sylveon",
-      "items": []
+      "items": [],
+      "symbol": "Sylveon"
     },
     "XY Trainer Kit - Noivern": {
       "title": "XY Trainer Kit - Noivern",
-      "items": []
+      "items": [],
+      "symbol": "Noivern"
     },
     "XY Trainer Kit - Bisharp": {
       "title": "XY Trainer Kit - Bisharp",
-      "items": []
+      "items": [],
+      "symbol": "Bisharp"
     },
     "XY Trainer Kit - Wigglytuff": {
       "title": "XY Trainer Kit - Wigglytuff",
-      "items": []
+      "items": [],
+      "symbol": "Wigglytuff"
     },
     "XY Trainer Kit - Latias": {
       "title": "XY Trainer Kit - Latias",
-      "items": []
+      "items": [],
+      "symbol": "Latias XY"
     },
     "XY Trainer Kit - Latios": {
       "title": "XY Trainer Kit - Latios",
-      "items": []
+      "items": [],
+      "symbol": "Latios XY"
     },
     "XY Trainer Kit - Pikachu Libre": {
       "title": "XY Trainer Kit - Pikachu Libre",
-      "items": []
+      "items": [],
+      "symbol": "Pikachu Libre"
     },
-    "XY Trainer Kit - Suicine": {
-      "title": "XY Trainer Kit - Suicine",
-      "items": []
+      "items": [],
+      "symbol": "Suicune"
     },
     "SM Trainer Kit - Lycanroc": {
       "title": "SM Trainer Kit - Lycanroc",
-      "items": []
+      "items": [],
+      "symbol": "Lycanroc"
     },
     "SM Trainer Kit - Alolan Raichu": {
       "title": "SM Trainer Kit - Alolan Raichu",
-      "items": []
+      "items": [],
+      "symbol": "Alolan Raichu"
     },
     "SM Trainer Kit - Alolan Sandslash": {
       "title": "SM Trainer Kit - Alolan Sandslash",

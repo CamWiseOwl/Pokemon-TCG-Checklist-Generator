@@ -178,6 +178,11 @@ h1 {
 }
 
 /* Backgrounds */
+.scarletVioletPrismaticEvolutions {
+  background-image: url("assets/bg/Prismatic Evolutions Background.png");
+  background-size: 98.1mm 70.4mm;
+}
+
 .scarletVioletSurgingSparks,
 .scarletVioletTemporalForces,
 .scarletVioletTwilightMasquerade,
@@ -283,6 +288,15 @@ h1 {
 .xySteamSiege {
   background-image: url("assets/bg/Steam Siege Background.png");
   background-size: 9.4mm 9.3mm;
+}
+
+.playPokemonPrizePacksS1,
+.playPokemonPrizePacksS2,
+.playPokemonPrizePacksS3,
+.playPokemonPrizePacksS4,
+.playPokemonPrizePacksS5 {
+  background-image: url("assets/bg/Play Background.png");
+  background-size: 210mm 297mm;
 }
 
 
