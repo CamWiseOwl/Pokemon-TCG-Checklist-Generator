@@ -47,7 +47,7 @@ function parseCSV(str) {
 const app = Vue.createApp({
 	data() {
 		return {
-			mode: 'super',
+			mode: 'sets',
 			sets: {},
 			extraSets: {},
 			superSets: {},
@@ -66,7 +66,6 @@ const app = Vue.createApp({
 	},
 	methods: {
 		processFile(text) {
-			console.log("pf",this.sets);
 			const data = parseCSV(text);
 			const headers = data.shift();
 			const setIndex = headers.indexOf('Set Name');
