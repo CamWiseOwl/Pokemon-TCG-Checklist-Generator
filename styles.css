@@ -1,0 +1,279 @@
+body {
+  font-family: "FF Good Pro", sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 7.4pt;
+  font-weight: 500;
+  letter-spacing: -0.1px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #ffffff;
+  height: 14mm;
+  margin: 9mm 0;
+  padding: 0 4mm;
+  gap: 5mm;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  padding: 2mm 4mm;
+  min-height: 2mm;
+  gap: 1mm 2mm;
+  flex-wrap: wrap;
+  margin-top: auto;
+}
+
+footer > div {
+  display: flex;
+  align-content: center;
+  text-wrap: nowrap;
+}
+
+.logo {
+  width: 24.8mm;
+  height: 12.7mm;
+}
+
+.set-banner-image {
+  max-width: 49mm;
+  height: 22.2mm;
+  margin-top: -2mm;
+  object-fit: contain;
+}
+
+.set-symbol {
+  height: 10mm;
+  margin-left: auto;
+}
+
+.set-section {
+  width: 210mm;
+  min-height: 297mm;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-position: 0 0;
+  background-image: url("assets/bg/Default Background.png");
+  background-size: 14.5mm 22.3mm;
+  break-inside: avoid;
+  break-after: always;
+}
+
+h1 {
+  margin: 0;
+  font-size: 12.8pt;
+  font-family: "Harmonique";
+  font-weight: 700;
+}
+
+.table {
+  column-count: var(--column-count, 3);
+  padding: 0 4mm;
+}
+
+.row {
+  display: flex;
+  min-height: 4mm;
+  background-color: #f5f6f6;
+  gap: 0.5mm;
+  align-items: center;
+  padding: 0.4mm 1mm;
+  break-inside: avoid-column;
+}
+
+.row > div:first-child {
+  transform-origin: left;
+  transform: scaleX(0.9);
+}
+
+.row:nth-child(odd) {
+  background-color: #e6e7e8;
+}
+
+.rarity-image {
+  min-width: 4mm;
+  width: auto;
+  height: 3mm;
+  display: block;
+  margin-right: 0;
+  margin-left: auto;
+}
+
+.checkboxes {
+  display: flex;
+  gap: 0.5mm;
+  align-items: center;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.checkboxes.no-rarity {
+	margin-left: auto;
+}
+
+.checkbox {
+  border: 1px solid var(--variant-color, transparent);
+	width: 10px;
+	height: 10px;
+	aspect-ratio: 1/1;
+}
+
+.firstEdition {
+  --variant-color: #faaf40;
+}
+
+.shadowless {
+  --variant-color: #ef4552;
+}
+
+.unlimited,
+.have {
+  --variant-color: #2d2e35;
+}
+
+.revHolo,
+.holo {
+  --variant-color: #108cc8;
+}
+
+.cols2 {
+  --column-count: 2;
+}
+
+.cols3 {
+  --column-count: 3;
+}
+
+.cols4 {
+  --column-count: 4;
+}
+
+.cols5 {
+  --column-count: 5;
+}
+
+.cols6 {
+  --column-count: 6;
+}
+
+.cols5 .table,
+.cols6 .table {
+  font-size: 7pt;
+  padding: 0 3mm;
+}
+
+/* Backgrounds */
+.scarletVioletSurgingSparks,
+.scarletVioletTemporalForces,
+.scarletVioletTwilightMasquerade,
+.scarletVioletStellarCrown {
+  background-image: url("assets/bg/Surging Sparks Background.png");
+  background-size: 40.5mm 37.1mm;
+}
+
+.scarletVioletShroudedFable {
+  background-image: url("assets/bg/Shrouded Fable Background.png");
+  background-size: 30.9mm 49.3mm;
+}
+
+.scarletViolet,
+.scarletVioletParadoxRift,
+.scarletViolet151,
+.scarletVioletObsidianFlames,
+.scarletVioletPaldeaEvolved,
+.scarletVioletPaldeanFates {
+  background-image: url("assets/bg/Paldean Fates Background.png");
+  background-size: 210mm 297mm;
+}
+
+.swordShieldBrilliantStars,
+.swordShieldAstralRadiance,
+.swordShieldLostOrigin,
+.swordShieldSilverTempest,
+.swordShieldCrownZenith {
+  background-image: url("assets/bg/Crown Zenith Background.png");
+  background-size: 210mm 297mm;
+}
+
+.swordShield,
+.swordShieldRebelClash,
+.swordShieldDarknessAblaze,
+.swordShieldVividVoltage,
+.swordShieldBattleStyles,
+.swordShieldChillingReign,
+.swordShieldEvolvingSkies,
+.swordShieldFusionStrike {
+  background-image: url("assets/bg/Fusion Strike Background.png");
+  background-size: 11.4mm 8.6mm;
+}
+
+.swordShieldPokemonGO {
+  background-image: url("assets/bg/Pokemon Go Background.png");
+  background-size: 31.9mm 40mm;
+}
+
+.swordShieldCelebrations {
+  background-image: url("assets/bg/Celebrations Background.png");
+  background-size: 210mm 297mm;
+}
+
+.swordShieldShiningFates {
+  background-image: url("assets/bg/Shining Fates Background.png");
+  background-size: 14.3mm 38mm;
+}
+
+.swordShieldChampionsPath {
+  background-image: url("assets/bg/Champions Path Background.png");
+  background-size: 146.3mm 48.8mm;
+}
+
+.sunMoonHiddenFates,
+.sunMoonUnifiedMinds,
+.sunMoonUnbrokenBonds,
+.sunMoonTeamUp,
+.sunMoonCosmicEclipse {
+  background-image: url("assets/bg/Cosmic Eclipse Background.png");
+  background-size: 10.5mm 12.5mm;
+}
+
+.sunMoonCelestialStorm .sunMoonForbiddenLight,
+.sunMoonUltraPrism,
+.sunMoonLostThunder {
+  background-image: url("assets/bg/Lost Thunder Background.png");
+  background-size: 9.4mm 15.4mm;
+}
+
+.sunMoon,
+.sunMoonCrimsonInvasion,
+.sunMoonGuardiansRising,
+.sunMoonBurningShadows,
+.sunMoonPromos {
+  background-image: url("assets/bg/Sun Moon Background.png");
+  background-size: 11.5mm 10.5mm;
+}
+
+.xyRoaringSkies,
+.xyAncientOrigins,
+.xyPrimalClash {
+  background-image: url("assets/bg/Celebrations Background.png");
+  background-size: 210mm 297mm;
+}
+.xyBREAKthrough,
+.xyBREAKpoint,
+.xyFatesCollide {
+  background-image: url("assets/bg/BREAKthrough Background.png");
+  background-size: 210mm 297mm;
+}
+
+.xySteamSiege {
+  background-image: url("assets/bg/Steam Siege Background.png");
+  background-size: 9.4mm 9.3mm;
+}

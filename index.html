@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSV Display</title>
+    <link rel="stylesheet" href="FFGoodPro.css" />
+    <link rel="stylesheet" href="Harmonique.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <div v-for="(set, setName) in sets" :key="setName" v-if="mode=='sets'">
+        <div class="set-section" :class="set.className" v-if="set.items.length">
+          <header>
+            <img
+              src="assets/logos/Pokemon TCG Logo.png"
+              alt="Pokemon TCG Logo"
+              width="24.8mm"
+              height="12.7mm"
+              class="logo"
+            />
+            <img
+              v-if="setName!='Base Set'"
+              :src="'assets/logos/' + setName + '.png'"
+              alt="Set Banner Image"
+              class="set-banner-image"
+            />
+            <h1>Pokémon TCG: <i>{{set.title}}</i> Card List</h1>
+            <img
+              v-if="setName!='Base Set'"
+              :src="'assets/set-symbol/' + setName + '.png'"
+              alt="Set Symbol"
+              class="set-symbol"
+            />
+          </header>
+          <div class="table">
+            <div
+              v-for="(row, rowIndex) in set.items"
+              :key="rowIndex"
+              class="row"
+            >
+              <div>{{ row.Number }}</div>
+              <div>{{ row.Name }}</div>
+              <img
+                :src="'assets/rarities/' + row.Rarity + '.png'"
+                :alt="row.Rarity"
+                width="4mm"
+                height="3mm"
+                class="rarity-image"
+              />
+              <div class="checkboxes">
+                <div
+                  v-for="(value, index) in row.additionalColumns"
+                  :key="index"
+                  class="checkbox"
+                  :class="variantClasses[value]"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <footer>
+            <div v-for="(value) in set.additionalColumns" :key="value">
+              <div class="checkbox" :class="variantClasses[value]"></div>
+              ={{value}}
+            </div>
+            <div v-for="rarity in set.rarities" :key="rarity">
+              <img
+                :src="'assets/rarities/' + rarity + '.png'"
+                :alt="rarity"
+                width="4mm"
+                height="3mm"
+                class="rarity-image"
+              />={{rarity}}
+            </div>
+          </footer>
+        </div>
+      </div>
+
+      <div
+        v-for="(set, setName) in extraSets"
+        :key="setName"
+        v-if="mode=='extra'"
+      >
+        <div class="set-section" :class="set.className" v-if="set.items.length">
+          <header>
+            <img
+              src="assets/logos/Pokemon TCG Logo.png"
+              alt="Pokemon TCG Logo"
+              width="24.8mm"
+              height="12.7mm"
+              class="logo"
+            />
+            <img
+              v-if="set.logo"
+              :src="'assets/logos/' + set.logo + '.png'"
+              alt="Set Banner Image"
+              class="set-banner-image"
+            />
+            <div>
+              <h1>Pokémon TCG: <i>{{set.title}}</i> Card List</h1>
+              <span v-if="set.label">{{ set.label }}</span>
+            </div>
+            <img
+              v-if="set.symbol"
+              :src="'assets/set-symbol/' + set.symbol + '.png'"
+              alt="Set Symbol"
+              class="set-symbol"
+            />
+          </header>
+          <div class="table">
+            <div
+              v-for="(row, rowIndex) in set.items"
+              :key="rowIndex"
+              class="row"
+            >
+              <div>{{ row.Number }}</div>
+              <div>
+                {{ row.Name }}<span v-if="row.Description">
+                  - {{ row.Description }}</span
+                >
+              </div>
+              <div class="checkboxes no-rarity">
+                <div
+                  v-for="(value, index) in row.additionalColumns"
+                  :key="index"
+                  class="checkbox"
+                  :class="variantClasses[value]"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <footer>
+            <div v-for="(value) in set.additionalColumns" :key="value">
+              <div class="checkbox" :class="variantClasses[value]"></div>
+              ={{value}}
+            </div>
+          </footer>
+        </div>
+      </div>
+
+      <div
+        v-for="(set, setName) in superSets"
+        :key="setName"
+        v-if="mode=='super'"
+      >
+        <div
+          class="set-section"
+          :class="set.className"
+          v-if="set.items.length"
+          v-for="(chunk, chunkIndex) in set.chunks"
+          :key="chunkIndex"
+        >
+          <header>
+            <img
+              src="assets/logos/Pokemon TCG Logo.png"
+              alt="Pokemon TCG Logo"
+              width="24.8mm"
+              height="12.7mm"
+              class="logo"
+            />
+            <img
+              v-if="set.logo"
+              :src="'assets/logos/' + set.logo + '.png'"
+              alt="Set Banner Image"
+              class="set-banner-image"
+            />
+            <div>
+              <h1>Pokémon TCG: <i>{{set.title}}</i> Card List</h1>
+              <span v-if="set.label">{{ set.label }}</span>
+              Page {{ chunkIndex + 1 }}
+            </div>
+            <img
+              v-if="set.symbol"
+              :src="'assets/set-symbol/' + set.symbol + '.png'"
+              alt="Set Symbol"
+              class="set-symbol"
+            />
+          </header>
+          <div class="table">
+            <div v-for="(row, rowIndex) in chunk" :key="rowIndex" class="row">
+              <div>{{ row.Number }}</div>
+              <div>
+                {{ row.Name }}<span v-if="row.Description">
+                  - {{ row.Description }}</span
+                >
+              </div>
+              <div class="checkboxes no-rarity">
+                <div
+                  v-for="(value, index) in row.additionalColumns"
+                  :key="index"
+                  class="checkbox"
+                  :class="variantClasses[value]"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <footer>
+            <div v-for="(value) in set.additionalColumns" :key="value">
+              <div class="checkbox" :class="variantClasses[value]"></div>
+              ={{value}}
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+    <script src="vue.global.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

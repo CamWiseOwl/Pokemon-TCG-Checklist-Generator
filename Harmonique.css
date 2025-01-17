@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Harmonique;
+    src: url("fonts/Harmonique-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Harmonique;
+    font-weight: 300;
+    src: url("fonts/Harmonique-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Harmonique;
+    font-weight: 500;
+    src: url("fonts/Harmonique-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Harmonique;
+    font-weight: 600;
+    src: url("fonts/Harmonique-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Harmonique;
+    font-weight: 700;
+    src: url("fonts/Harmonique-Heavy.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Harmonique;
+    font-weight: 800;
+    src: url("fonts/Harmonique-Ultra.otf") format("opentype");
+}

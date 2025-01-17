@@ -1,0 +1,953 @@
+{
+  "sets": {
+    "Base Set": {
+      "title": "Original — Base Set",
+      "items": []
+    },
+    "Jungle": {
+      "title": "Original — Jungle",
+      "items": []
+    },
+    "Fossil": {
+      "title": "Original — Fossil",
+      "items": []
+    },
+    "Base Set 2": {
+      "title": "Original — Base Set 2",
+      "items": []
+    },
+    "Team Rocket": {
+      "title": "Original — Team Rocket",
+      "items": []
+    },
+    "Gym Heroes": {
+      "title": "Original — Gym Heroes",
+      "items": []
+    },
+    "Gym Challenge": {
+      "title": "Original — Challenge",
+      "items": []
+    },
+    "Neo Genesis": {
+      "title": "Neo Genesis",
+      "items": []
+    },
+    "Neo Discovery": {
+      "title": "Neo Discovery",
+      "items": []
+    },
+    "Neo Revelation": {
+      "title": "Neo Revelation",
+      "items": []
+    },
+    "Neo Destiny": {
+      "title": "Neo Destiny",
+      "items": []
+    },
+    "Legendary Collection": {
+      "title": "Legendary Collection",
+      "items": []
+    },
+    "Expedition": {
+      "title": "e-Card — Expedition",
+      "items": []
+    },
+    "Aquapolis": {
+      "title": "e-Card — Aquapolis",
+      "items": []
+    },
+    "Skyridge": {
+      "title": "e-Card — Skyridge",
+      "items": []
+    },
+    "Ruby & Sapphire": {
+      "title": "EX Ruby & Sapphire",
+      "items": []
+    },
+    "Sandstorm": {
+      "title": "EX Sandstorm",
+      "items": []
+    },
+    "Dragon": {
+      "title": "EX Dragon",
+      "items": []
+    },
+    "Team Magma vs Team Aqua": {
+      "title": "EX Team Magma vs Team Aqua",
+      "items": []
+    },
+    "Hidden Legends": {
+      "title": "EX Hidden Legends",
+      "items": []
+    },
+    "FireRed & LeafGreen": {
+      "title": "EX FireRed & LeafGreen",
+      "items": []
+    },
+    "Team Rocket Returns": {
+      "title": "EX Team Rocket Returns",
+      "items": []
+    },
+    "Deoxys": {
+      "title": "EX Deoxys",
+      "items": []
+    },
+    "Emerald": {
+      "title": "EX Emerald",
+      "items": []
+    },
+    "Unseen Forces": {
+      "title": "EX Unseen Forces",
+      "items": []
+    },
+    "Delta Species": {
+      "title": "EX Delta Species",
+      "items": []
+    },
+    "Legend Maker": {
+      "title": "EX Legend Maker",
+      "items": []
+    },
+    "Holon Phantoms": {
+      "title": "EX Holon Phantoms",
+      "items": []
+    },
+    "Crystal Guardians": {
+      "title": "EX Crystal Guardians",
+      "items": []
+    },
+    "Dragon Frontiers": {
+      "title": "EX Dragon Frontiers",
+      "items": []
+    },
+    "Power Keepers": {
+      "title": "EX Power Keepers",
+      "items": []
+    },
+    "Diamond & Pearl": {
+      "title": "Diamond & Pearl",
+      "items": []
+    },
+    "Mysterious Treasures": {
+      "title": "Diamond & Pearl — Mysterious Treasures",
+      "items": []
+    },
+    "Secret Wonders": {
+      "title": "Diamond & Pearl — Secret Wonders",
+      "items": []
+    },
+    "Great Encounters": {
+      "title": "Diamond & Pearl — Great Encounters",
+      "items": []
+    },
+    "Majestic Dawn": {
+      "title": "Diamond & Pearl — Majestic Dawn",
+      "items": []
+    },
+    "Legends Awakened": {
+      "title": "Diamond & Pearl — Legends Awakened",
+      "items": []
+    },
+    "Stormfront": {
+      "title": "Diamond & Pearl — Stormfront",
+      "items": []
+    },
+    "Platinum": {
+      "title": "Platinum",
+      "items": []
+    },
+    "Rising Rivals": {
+      "title": "Platinum — Rising Rivals",
+      "items": []
+    },
+    "Supreme Victors": {
+      "title": "Platinum — Supreme Victors",
+      "items": []
+    },
+    "Arceus": {
+      "title": "Platinum — Arceus",
+      "items": []
+    },
+    "HeartGold & SoulSilver": {
+      "title": "HeartGold & SoulSilver",
+      "items": []
+    },
+    "Unleashed": {
+      "title": "HS — Unleashed",
+      "items": []
+    },
+    "Undaunted": {
+      "title": "HS — Undaunted",
+      "items": []
+    },
+    "Triumphant": {
+      "title": "HS — Triumphant",
+      "items": []
+    },
+    "Call of Legends": {
+      "title": "Call of Legends",
+      "items": []
+    },
+    "Black & White": {
+      "title": "Black & White",
+      "items": []
+    },
+    "Emerging Powers": {
+      "title": "Black & White — Emerging Powers",
+      "items": []
+    },
+    "Noble Victories": {
+      "title": "Black & White — Noble Victories",
+      "items": []
+    },
+    "Next Destinies": {
+      "title": "Black & White — Next Destinies",
+      "items": []
+    },
+    "Dark Explorers": {
+      "title": "Black & White — Dark Explorers",
+      "items": []
+    },
+    "Dragons Exalted": {
+      "title": "Black & White — Dragons Exalted",
+      "items": []
+    },
+    "Boundaries Crossed": {
+      "title": "Black & White — Boundaries Crossed",
+      "items": []
+    },
+    "Plasma Storm": {
+      "title": "Black & White — Plasma Storm",
+      "items": []
+    },
+    "Plasma Freeze": {
+      "title": "Black & White — Plasma Freeze",
+      "items": []
+    },
+    "Plasma Blast": {
+      "title": "Black & White — Plasma Blast",
+      "items": []
+    },
+    "Legendary Treasures": {
+      "title": "Black & White — Legendary Treasures",
+      "items": []
+    },
+    "XY": {
+      "title": "XY",
+      "items": []
+    },
+    "Flashfire": {
+      "title": "XY — Flashfire",
+      "items": []
+    },
+    "Furious Fists": {
+      "title": "XY — Furious Fists",
+      "items": []
+    },
+    "Phantom Forces": {
+      "title": "XY — Phantom Forces",
+      "items": []
+    },
+    "Primal Clash": {
+      "title": "XY — Primal Clash",
+      "items": []
+    },
+    "Double Crisis": {
+      "title": "XY — Double Crisis",
+      "items": []
+    },
+    "Roaring Skies": {
+      "title": "XY — Roaring Skies",
+      "items": []
+    },
+    "Ancient Origins": {
+      "title": "XY — Ancient Origins",
+      "items": []
+    },
+    "BREAKthrough": {
+      "title": "XY — BREAKthrough",
+      "items": []
+    },
+    "BREAKpoint": {
+      "title": "XY — BREAKpoint",
+      "items": []
+    },
+    "Generations": {
+      "title": "XY — Generations",
+      "items": []
+    },
+    "Fates Collide": {
+      "title": "XY — Fates Collide",
+      "items": []
+    },
+    "Steam Siege": {
+      "title": "XY — Steam Siege",
+      "items": []
+    },
+    "Evolutions": {
+      "title": "XY — Evolutions",
+      "items": []
+    },
+    "Sun & Moon": {
+      "title": "Sun & Moon",
+      "items": []
+    },
+    "Guardians Rising": {
+      "title": "Sun & Moon — Guardians Rising",
+      "items": []
+    },
+    "Burning Shadows": {
+      "title": "Sun & Moon — Burning Shadows",
+      "items": []
+    },
+    "Shining Legends": {
+      "title": "Sun & Moon — Shining Legends",
+      "items": []
+    },
+    "Crimson Invasion": {
+      "title": "Sun & Moon — Crimson Invasion",
+      "items": []
+    },
+    "Ultra Prism": {
+      "title": "Sun & Moon — Ultra Prism",
+      "items": []
+    },
+    "Forbidden Light": {
+      "title": "Sun & Moon — Forbidden Light",
+      "items": []
+    },
+    "Celestial Storm": {
+      "title": "Sun & Moon — Celestial Storm",
+      "items": []
+    },
+    "Dragon Majesty": {
+      "title": "Sun & Moon — Dragon Majesty",
+      "items": []
+    },
+    "Lost Thunder": {
+      "title": "Sun & Moon — Lost Thunder",
+      "items": []
+    },
+    "Team Up": {
+      "title": "Sun & Moon — Team Up",
+      "items": []
+    },
+    "Detective Pikachu": {
+      "title": "Sun & Moon — Detective Pikachu",
+      "items": []
+    },
+    "Unbroken Bonds": {
+      "title": "Sun & Moon — Unbroken Bonds",
+      "items": []
+    },
+    "Unified Minds": {
+      "title": "Sun & Moon — Unified Minds",
+      "items": []
+    },
+    "Hidden Fates": {
+      "title": "Sun & Moon — Hidden Fates",
+      "items": []
+    },
+    "Cosmic Eclipse": {
+      "title": "Sun & Moon — Cosmic Eclipse",
+      "items": []
+    },
+    "Sword & Shield": {
+      "title": "Sword & Shield",
+      "items": []
+    },
+    "Rebel Clash": {
+      "title": "Sword & Shield — Rebel Clash",
+      "items": []
+    },
+    "Darkness Ablaze": {
+      "title": "Sword & Shield — Darkness Ablaze",
+      "items": []
+    },
+    "Champion's Path": {
+      "title": "Sword & Shield — Champion's Path",
+      "items": []
+    },
+    "Vivid Voltage": {
+      "title": "Sword & Shield — Vivid Voltage",
+      "items": []
+    },
+    "Shining Fates": {
+      "title": "Sword & Shield — Shining Fates",
+      "items": []
+    },
+    "Battle Styles": {
+      "title": "Sword & Shield — Battle Styles",
+      "items": []
+    },
+    "Chilling Reign": {
+      "title": "Sword & Shield — Chilling Reign",
+      "items": []
+    },
+    "Evolving Skies": {
+      "title": "Sword & Shield — Evolving Skies",
+      "items": []
+    },
+    "Celebrations": {
+      "title": "Sword & Shield — Celebrations",
+      "items": []
+    },
+    "Fusion Strike": {
+      "title": "Sword & Shield — Fusion Strike",
+      "items": []
+    },
+    "Brilliant Stars": {
+      "title": "Sword & Shield — Brilliant Stars",
+      "items": []
+    },
+    "Astral Radiance": {
+      "title": "Sword & Shield — Astral Radiance",
+      "items": []
+    },
+    "Pokémon GO": {
+      "title": "Sword & Shield — Pokémon GO",
+      "items": []
+    },
+    "Lost Origin": {
+      "title": "Sword & Shield — Lost Origin",
+      "items": []
+    },
+    "Silver Tempest": {
+      "title": "Sword & Shield — Silver Tempest",
+      "items": []
+    },
+    "Crown Zenith": {
+      "title": "Sword & Shield — Crown Zenith",
+      "items": []
+    },
+    "Scarlet & Violet": {
+      "title": "Scarlet & Violet",
+      "items": []
+    },
+    "Paldea Evolved": {
+      "title": "Scarlet & Violet — Paldea Evolved",
+      "items": []
+    },
+    "Obsidian Flames": {
+      "title": "Scarlet & Violet — Obsidian Flames",
+      "items": []
+    },
+    "151": {
+      "title": "Scarlet & Violet — 151",
+      "items": []
+    },
+    "Paradox Rift": {
+      "title": "Scarlet & Violet — Paradox Rift",
+      "items": []
+    },
+    "Paldean Fates": {
+      "title": "Scarlet & Violet — Paldean Fates",
+      "items": []
+    },
+    "Temporal Forces": {
+      "title": "Scarlet & Violet — Temporal Forces",
+      "items": []
+    },
+    "Twilight Masquerade": {
+      "title": "Scarlet & Violet — Twilight Masquerade",
+      "items": []
+    },
+    "Shrouded Fable": {
+      "title": "Scarlet & Violet — Shrouded Fable",
+      "items": []
+    },
+    "Stellar Crown": {
+      "title": "Scarlet & Violet — Stellar Crown",
+      "items": []
+    },
+    "Surging Sparks": {
+      "title": "Scarlet & Violet — Surging Sparks",
+      "items": []
+    },
+    "Prismatic Evolutions": {
+      "title": "Scarlet & Violet — Prismatic Evolutions",
+      "items": []
+    },
+    "Journey Together": {
+      "title": "Scarlet & Violet — Journey Together",
+      "items": []
+    }
+  },
+
+  "extraSets": {
+    "Wizards Black Star Promos": {
+      "title": "Wizards Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "Nintendo Black Star Promos": {
+      "title": "Nintendo Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "DP Black Star Promos": {
+      "title": "DP Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "HGSS Black Star Promos": {
+      "title": "HGSS Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "BW Black Star Promos": {
+      "title": "BW Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "XY Black Star Promos": {
+      "title": "XY Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "SV Black Star Promos": {
+      "title": "SV Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "2001 Tropical Mega Battle Giveaway": {
+      "title": "2001 Tropical Mega Battle Giveaway",
+      "items": [],
+      "logo": "2001 TMB"
+    },
+    "W Promotional Cards": {
+      "title": "W Promotional Cards",
+      "items": [],
+      "logo": "Gold_W"
+    },
+    "Southern Islands": {
+      "title": "Southern Islands",
+      "items": [],
+      "logo": "Southern Islands",
+      "symbol": "Southern Islands"
+    },
+    "Best of Game": {
+      "title": "Best of Game",
+      "items": [],
+      "logo": "SetSymbolBest"
+    },
+    "ex Battle Stadium": {
+      "title": "ex Battle Stadium",
+      "items": [],
+      "logo": "ex-battle-stadium",
+      "label": "No e-Reader logo, marked ©2004"
+    },
+    "2008 Burger King Promo": {
+      "title": "2008 Burger King Promo",
+      "items": [],
+      "logo": "burger-king",
+      "label": "Mirror Reverse Holofoil, Diamond & Pearl Stamp"
+    },
+    "2009 Burger King Promo": {
+      "title": "2009 Burger King Promo",
+      "items": [],
+      "logo": "burger-king",
+      "label": "Mirror Reverse Holofoil, Platinum Stamp"
+    },
+    "2008 Countdown Calendar": {
+      "title": "2008 Countdown Calendar",
+      "items": [],
+      "logo": "2008 Countdown Calculator.jpg",
+      "label": "Gold Snowflake Stamp"
+    },
+    "Rumble": {
+      "title": "Rumble",
+      "logo": "Rumble",
+      "symbol": "Rumble",
+      "items": []
+    },
+    "McDonald's Collection 2011": {
+      "title": "McDonald's Collection 2011",
+      "symbol": "McDonalds_Collection_2011",
+      "items": []
+    },
+    "McDonald's Collection 2012": {
+      "title": "McDonald's Collection 2012",
+      "symbol": "McDonalds_Collection_2012",
+      "items": []
+    },
+    "McDonald's Collection 2014": {
+      "title": "McDonald's Collection 2014",
+      "symbol": "McDonalds_Collection_2014",
+      "items": []
+    },
+    "McDonald's Collection 2015": {
+      "title": "McDonald's Collection 2015",
+      "symbol": "McDonalds_Collection_2015",
+      "items": []
+    },
+    "McDonald's Collection 2016": {
+      "title": "McDonald's Collection 2016",
+      "symbol": "McDonalds_Collection_2016",
+      "items": []
+    },
+    "McDonald's Collection 2017": {
+      "title": "McDonald's Collection 2017",
+      "symbol": "McDonalds_Collection_2017",
+      "items": []
+    },
+    "McDonald's Collection 2018": {
+      "title": "McDonald's Collection 2018",
+      "symbol": "McDonalds_Collection_2018",
+      "items": []
+    },
+    "McDonald's Collection 2019": {
+      "title": "McDonald's Collection 2019",
+      "symbol": "McDonalds_Collection_2019",
+      "items": []
+    },
+    "McDonald's Collection 2021": {
+      "title": "McDonald's Collection 2021",
+      "symbol": "McDonalds_Collection_2021",
+      "items": []
+    },
+    "McDonald's Collection 2022": {
+      "title": "McDonald's Collection 2022",
+      "symbol": "McDonalds_Collection_2022",
+      "logo": "Match_Battle_logo",
+      "items": []
+    },
+    "McDonald's Collection 2023": {
+      "title": "McDonald's Collection 2023",
+      "logo": "Match_Battle_logo",
+      "symbol": "McDonalds_Collection_2023",
+      "items": []
+    },
+    "Dragon Vault": {
+      "title": "Dragon Vault",
+      "logo": "Dragon Vault",
+      "symbol": "Dragon Vault",
+      "items": []
+    },
+    "Kalos Starter Set": {
+      "title": "Kalos Starter Set",
+      "logo": "Kalos Starter Set",
+      "items": []
+    },
+    "Battle Academy 2020 - Charizard": {
+      "title": "Battle Academy 2020 - Charizard",
+      "items": []
+    },
+    "Battle Academy 2020 - Pikachu": {
+      "title": "Battle Academy 2020 - Pikachu",
+      "items": []
+    },
+    "Battle Academy 2020 - Mewtwo": {
+      "title": "Battle Academy 2020 - Mewtwo",
+      "items": []
+    },
+    "Battle Academy 2022 - Cinderace": {
+      "title": "Battle Academy 2022 - Cinderace",
+      "items": []
+    },
+    "Battle Academy 2022 - Pikachu": {
+      "title": "Battle Academy 2022 - Pikachu",
+      "items": []
+    },
+    "Battle Academy 2022 - Eevee": {
+      "title": "Battle Academy 2022 - Eevee",
+      "items": []
+    },
+    "Battle Academy 2024 - Armarouge": {
+      "title": "Battle Academy 2024 - Armarouge",
+      "items": []
+    },
+    "Battle Academy 2024 - Pikachu": {
+      "title": "Battle Academy 2024 - Pikachu",
+      "items": []
+    },
+    "Battle Academy 2024 - Darkrai": {
+      "title": "Battle Academy 2024 - Darkrai",
+      "items": []
+    },
+    "Futsal Collection": {
+      "title": "Futsal Collection",
+      "items": []
+    },
+    "Trick or Trade 2022": {
+      "title": "Trick or Trade 2022",
+      "items": [],
+      "label": "Pikachu Pumpkin Stamp"
+    },
+    "Trick or Trade 2023": {
+      "title": "Trick or Trade 2023",
+      "items": [],
+      "label": "Pikachu Pumpkin Stamp"
+    },
+    "Trick or Trade 2024": {
+      "title": "Trick or Trade 2024",
+      "items": [],
+      "label": "Pikachu Pumpkin Stamp"
+    },
+    "Holiday Calendar 2022": {
+      "title": "Holiday Calendar 2022",
+      "items": [],
+      "label": "Snowflake Stamp"
+    },
+    "Holiday Calendar 2023": {
+      "title": "Holiday Calendar 2023",
+      "items": [],
+      "label": "Snowflake Stamp"
+    },
+    "Holiday Calendar 2024": {
+      "title": "Holiday Calendar 2024",
+      "items": [],
+      "label": "Snowflake Stamp"
+    },
+    "TCG Classic - Venusaur & Lugia ex Deck": {
+      "title": "TCG Classic - Venusaur & Lugia ex Deck",
+      "items": []
+    },
+    "TCG Classic - Charizard & Ho-Oh ex Deck": {
+      "title": "TCG Classic - Charizard & Ho-Oh ex Deck",
+      "items": []
+    },
+    "TCG Classic - Blastoise & Suicune ex Deck": {
+      "title": "TCG Classic - Blastoise & Suicune ex Deck",
+      "items": []
+    },
+    "My First Battle - Pikachu & Bulbasaur": {
+      "title": "My First Battle - Pikachu & Bulbasaur",
+      "items": [],
+      "label": "Bulbasaur or Pikachu Stamp"
+    },
+    "My First Battle - Charmander & Squirtle": {
+      "title": "My First Battle - Charmander & Squirtle",
+      "items": [],
+      "label": "Charmander or Squirtle Stamp"
+    },
+    "POP Series 1": {
+      "title": "POP Series 1",
+      "items": []
+    },
+    "POP Series 2": {
+      "title": "POP Series 2",
+      "items": []
+    },
+    "POP Series 3": {
+      "title": "POP Series 3",
+      "items": []
+    },
+    "POP Series 4": {
+      "title": "POP Series 4",
+      "items": []
+    },
+    "POP Series 5": {
+      "title": "POP Series 5",
+      "items": []
+    },
+    "POP Series 6": {
+      "title": "POP Series 6",
+      "items": []
+    },
+    "POP Series 7": {
+      "title": "POP Series 7",
+      "items": []
+    },
+    "POP Series 8": {
+      "title": "POP Series 8",
+      "items": []
+    },
+    "POP Series 9": {
+      "title": "POP Series 9",
+      "items": []
+    },
+    "Play! Pokémon Prize Packs S1": {
+      "title": "Play! Pokémon Prize Packs S1",
+      "items": []
+    },
+    "Play! Pokémon Prize Packs S2": {
+      "title": "Play! Pokémon Prize Packs S2",
+      "items": []
+    },
+    "Play! Pokémon Prize Packs S3": {
+      "title": "Play! Pokémon Prize Packs S3",
+      "items": []
+    },
+    "Play! Pokémon Prize Packs S4": {
+      "title": "Play! Pokémon Prize Packs S4",
+      "items": []
+    },
+    "Play! Pokémon Prize Packs S5": {
+      "title": "Play! Pokémon Prize Packs S5",
+      "items": []
+    },
+    "EX Trainer Kit - Latios": {
+      "title": "EX Trainer Kit - Latios",
+      "items": []
+    },
+    "EX Trainer Kit - Latias": {
+      "title": "EX Trainer Kit - Latias",
+      "items": []
+    },
+    "EX Trainer Kit 2 - Minun": {
+      "title": "EX Trainer Kit 2 - Minun",
+      "items": []
+    },
+    "EX Trainer Kit 2 - Plusle": {
+      "title": "EX Trainer Kit 2 - Plusle",
+      "items": []
+    },
+    "DP Trainer Kit - Manaphy": {
+      "title": "DP Trainer Kit - Manaphy",
+      "items": []
+    },
+    "DP Trainer Kit - Lucario": {
+      "title": "DP Trainer Kit - Lucario",
+      "items": []
+    },
+    "HGSS Trainer Kit - Raichu": {
+      "title": "HGSS Trainer Kit - Raichu",
+      "items": []
+    },
+    "HGSS Trainer Kit - Gyarados": {
+      "title": "HGSS Trainer Kit - Gyarados",
+      "items": []
+    },
+    "BW Trainer Kit - Excadrill": {
+      "title": "BW Trainer Kit - Excadrill",
+      "items": []
+    },
+    "BW Trainer Kit - Zoroark": {
+      "title": "BW Trainer Kit - Zoroark",
+      "items": []
+    },
+    "XY Trainer Kit - Sylveon": {
+      "title": "XY Trainer Kit - Sylveon",
+      "items": []
+    },
+    "XY Trainer Kit - Noivern": {
+      "title": "XY Trainer Kit - Noivern",
+      "items": []
+    },
+    "XY Trainer Kit - Bisharp": {
+      "title": "XY Trainer Kit - Bisharp",
+      "items": []
+    },
+    "XY Trainer Kit - Wigglytuff": {
+      "title": "XY Trainer Kit - Wigglytuff",
+      "items": []
+    },
+    "XY Trainer Kit - Latias": {
+      "title": "XY Trainer Kit - Latias",
+      "items": []
+    },
+    "XY Trainer Kit - Latios": {
+      "title": "XY Trainer Kit - Latios",
+      "items": []
+    },
+    "XY Trainer Kit - Pikachu Libre": {
+      "title": "XY Trainer Kit - Pikachu Libre",
+      "items": []
+    },
+    "XY Trainer Kit - Suicine": {
+      "title": "XY Trainer Kit - Suicine",
+      "items": []
+    },
+    "SM Trainer Kit - Lycanroc": {
+      "title": "SM Trainer Kit - Lycanroc",
+      "items": []
+    },
+    "SM Trainer Kit - Alolan Raichu": {
+      "title": "SM Trainer Kit - Alolan Raichu",
+      "items": []
+    },
+    "SM Trainer Kit - Alolan Sandslash": {
+      "title": "SM Trainer Kit - Alolan Sandslash",
+      "items": []
+    },
+    "SM Trainer Kit (Alolan Ninetales)": {
+      "title": "SM Trainer Kit (Alolan Ninetales)",
+      "items": []
+    },
+    "Pre-Release": {
+      "title": "Pre-Release",
+      "items": []
+    },
+    "Professor Program": {
+      "title": "Professor Program",
+      "items": []
+    },
+    "Player Rewards Program": {
+      "title": "Player Rewards Program",
+      "items": []
+    },
+    "Blister Pack Exclusives": {
+      "title": "Blister Pack Exclusives",
+      "items": []
+    },
+    "Alternative Art": {
+      "title": "Alternative Art",
+      "items": []
+    },
+    "Error Cards": {
+      "title": "Error Cards",
+      "items": []
+    },
+
+    "Pokémon League": {
+      "title": "Pokémon League",
+      "items": []
+    },
+    "Misc Challenge": {
+      "title": "Misc Challenge",
+      "items": []
+    },
+    "City Championships": {
+      "title": "City Championships",
+      "items": []
+    },
+    "State Championships": {
+      "title": "State Championships",
+      "items": []
+    },
+    "National Championships": {
+      "title": "National Championships",
+      "items": []
+    },
+    "World Championships": {
+      "title": "World Championships",
+      "items": []
+    },
+    "Regional Championships": {
+      "title": "Regional Championships",
+      "items": []
+    },
+    "International Championships": {
+      "title": "International Championships",
+      "items": []
+    },
+    "Poké Card Creator Pack": {
+      "title": "Poké Card Creator Pack",
+      "items": [],
+      "logo": "PCCP",
+      "symbol": "Kids_WB_logo"
+    }
+  },
+
+  "superSets": {
+    "SM Black Star Promos": {
+      "title": "SM Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "SWSH Black Star Promos": {
+      "title": "SWSH Black Star Promos",
+      "items": [],
+      "logo": "Promo Symbol"
+    },
+    "Theme Deck Exclusives": {
+      "title": "Theme Deck Exclusives",
+      "items": []
+    },
+    "Additional Cards": {
+      "title": "Additional Cards",
+      "items": []
+    }
+  }
+}
