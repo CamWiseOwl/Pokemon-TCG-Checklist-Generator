@@ -3,13 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pokemon TCG Checklist Generator</title>
+    <title>Pokemon TCG Checklist</title>
     <link rel="stylesheet" href="FFGoodPro.css" />
     <link rel="stylesheet" href="Harmonique.css" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <div id="app">
+      <select v-model="mode">
+        <option value="sets">Core Sets</option>
+        <option value="extra">Promos, Errors, Extras</option>
+        <option value="super">Sheets that take up multiple pages</option>
+      </select>
       <div v-for="(set, setName) in sets" :key="setName" v-if="mode=='sets'">
         <div class="set-section" :class="set.className" v-if="set.items.length">
           <header>

@@ -36,6 +36,13 @@ footer > div {
   text-wrap: nowrap;
 }
 
+select {
+  padding: .25rem .5rem;
+  margin: 1rem;
+  border: 1px solid #333;
+  border-radius: 4px;
+}
+
 .logo {
   width: 24.8mm;
   height: 12.7mm;
@@ -276,4 +283,11 @@ h1 {
 .xySteamSiege {
   background-image: url("assets/bg/Steam Siege Background.png");
   background-size: 9.4mm 9.3mm;
+}
+
+
+@media print {
+  select {
+    display: none;
+  }
 }
