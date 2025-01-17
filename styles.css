@@ -51,7 +51,6 @@ select {
 .set-banner-image {
   max-width: 49mm;
   height: 22.2mm;
-  margin-top: -2mm;
   object-fit: contain;
 }
 
